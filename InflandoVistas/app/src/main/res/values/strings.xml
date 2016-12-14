@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InflandoVistas</string>
+    <string name="mensajePrincipal">INTRODUZCA UN TEXTO</string>
+    <string name="mensajeBoton">Dar la vuelta</string>
+
+</resources>
